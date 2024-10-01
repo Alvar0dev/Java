@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="447e8bbf-5d85-43c6-bda1-d0fcb5f86c20" name="Changes" comment="Primeros pasos Java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bucles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Funtions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Estructuras_de_Control.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Estructuras_de_Control.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Alvar0dev"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Alvar0dev&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Alvar0dev/Java.git",
-    "accountId": "a35de9e3-8e32-4fdb-9416-9f658411e5e4"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Alvar0dev/Java.git&quot;,
+    &quot;accountId&quot;: &quot;a35de9e3-8e32-4fdb-9416-9f658411e5e4&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2mbYf7zqRpcGMnkhM1raM5JPTsb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -51,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Bucles.executor": "Run",
+    "Application.Calculator.executor": "Run",
     "Application.Estructuras_de_Control.executor": "Run",
     "Application.Funtions.executor": "Run",
     "Application.Variables.executor": "Run",
@@ -61,9 +60,16 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Funtions">
+  <component name="RunManager" selected="Application.Calculator">
     <configuration name="Bucles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bucles" />
+      <module name="Hola_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="Hola_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,6 +146,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Funtions" />
         <item itemvalue="Application.Bucles" />
         <item itemvalue="Application.Variables" />
@@ -163,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727371954754</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Primeros pasos Java">
+      <option name="closed" value="true" />
+      <created>1727803197820</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727803197820</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
