@@ -36,3 +36,4 @@ Salario anual es mayor a 50.000 y su edad es menor que 30 años ->le damos la mi
         }
     }
 }
+

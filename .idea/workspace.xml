@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="447e8bbf-5d85-43c6-bda1-d0fcb5f86c20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Estructuras_de_Control.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="447e8bbf-5d85-43c6-bda1-d0fcb5f86c20" name="Changes" comment="Primeros pasos Java">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bucles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Funtions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Estructuras_de_Control.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Estructuras_de_Control.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Alvar0dev"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Alvar0dev/Java.git",
+    "accountId": "a35de9e3-8e32-4fdb-9416-9f658411e5e4"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -43,7 +50,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Bucles.executor": "Run",
     "Application.Estructuras_de_Control.executor": "Run",
+    "Application.Funtions.executor": "Run",
     "Application.Variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -52,11 +61,25 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Estructuras_de_Control">
+  <component name="RunManager" selected="Application.Funtions">
+    <configuration name="Bucles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bucles" />
+      <module name="Hola_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Estructuras_de_Control" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Estructuras_de_Control" />
       <module name="Hola_Java" />
       <option name="PROGRAM_PARAMETERS" value="Spanish" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Funtions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Funtions" />
+      <module name="Hola_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,6 +140,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Funtions" />
+        <item itemvalue="Application.Bucles" />
         <item itemvalue="Application.Variables" />
       </list>
     </recent_temporary>
@@ -130,7 +155,20 @@
       <option name="presentableId" value="Default" />
       <updated>1727346844440</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primeros pasos Java">
+      <option name="closed" value="true" />
+      <created>1727371954754</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727371954754</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeros pasos Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeros pasos Java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -143,6 +181,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Bucles.java</url>
+          <line>2</line>
+          <properties class="Bucles" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
