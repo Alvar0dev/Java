@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="447e8bbf-5d85-43c6-bda1-d0fcb5f86c20" name="Changes" comment="Primeros pasos Java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
+    <list default="true" id="447e8bbf-5d85-43c6-bda1-d0fcb5f86c20" name="Changes" comment="Primeros pasos Java 2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/AverageCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AverageCalculatorBucle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +37,9 @@
     &quot;accountId&quot;: &quot;a35de9e3-8e32-4fdb-9416-9f658411e5e4&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -48,6 +53,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AverageCalculator.executor": "Run",
+    "Application.AverageCalculatorBucle.executor": "Run",
     "Application.Bucles.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.Estructuras_de_Control.executor": "Run",
@@ -60,7 +67,21 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Calculator">
+  <component name="RunManager" selected="Application.AverageCalculatorBucle">
+    <configuration name="AverageCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AverageCalculator" />
+      <module name="Hola_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AverageCalculatorBucle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AverageCalculatorBucle" />
+      <module name="Hola_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Bucles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bucles" />
       <module name="Hola_Java" />
@@ -85,13 +106,6 @@
     </configuration>
     <configuration name="Funtions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Funtions" />
-      <module name="Hola_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variables" />
       <module name="Hola_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -146,10 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AverageCalculatorBucle" />
+        <item itemvalue="Application.AverageCalculator" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Funtions" />
         <item itemvalue="Application.Bucles" />
-        <item itemvalue="Application.Variables" />
       </list>
     </recent_temporary>
   </component>
@@ -178,12 +193,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727803197820</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Primeros pasos Java 2">
+      <option name="closed" value="true" />
+      <created>1727805425340</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727805425340</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeros pasos Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeros pasos Java" />
+    <MESSAGE value="Primeros pasos Java 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeros pasos Java 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
